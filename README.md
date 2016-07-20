@@ -1,6 +1,5 @@
-# ToDos
-Todo List application.
+# Ajax-Practice
+Practicing ajax calls with my old todo list application
 
-Tools: HTML, CSS, JavaScript
+Tools: HTML, CSS, JavaScript, jQuery, Ajax, PHP and mysql
 
-Link: http://nj3355.github.io/ToDos/
